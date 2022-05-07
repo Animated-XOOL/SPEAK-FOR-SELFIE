@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(21, 16, 23);
+}
+h1{
+    color: aquamarine;
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: aquamarine;
+}
+h4{
+    color: aquamarine;
+}
+h5{
+    color: aquamarine;
+}
+label{
+    color: aquamarine;
+}
+p{
+    color: aquamarine;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(90, 94, 98);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
